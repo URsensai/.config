@@ -1,0 +1,9 @@
+2025-05-12 18:07:24.203 [info] Extension host with pid 26445 started
+2025-05-12 18:07:24.203 [info] Skipping acquiring lock for /home/umakanth/.config/Code/User/workspaceStorage/7765104e37b0c561300d73a7d7c26901.
+2025-05-12 18:07:24.366 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-12 18:07:24.403 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-12 18:07:24.560 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-12 18:07:24.573 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-12 18:07:24.650 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-12 18:07:24.690 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-12 18:07:24.693 [info] Extension host with pid 26445 exiting with code 0

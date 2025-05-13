@@ -1,0 +1,61 @@
+{ config, pkgs, ... }:
+
+{
+
+  wayland.windowManager.hyprland = {
+    enable = true;
+    package = pkgs.hyprland;
+    xwayland = {
+      enable = true;
+    };
+    settings = {
+      "$mainMod" = "SUPER";
+      bind = [
+        "$mainMod,Return,exec,kitty"
+        "$mainMod, E, exec, dolphin"
+        "$mainMod, Q, killactive, "
+        "$mainMod, M, fullscreen, 1"
+        "$mainMod, F, exec, firefox"
+        "$mainMod, C, exec,  code"
+        "$mainMod, R, exec,  rofi -show drun"
+      ];
+      windowrule = [
+      ];
+      layerrule = [
+        "blur, wlogout"
+      ];
+
+      # Configure your monitors here
+      monitor = [
+        # Example for a single monitor. Replace with your actual monitor name and desired scale.
+        # You can get your monitor name using 'wlr-randr' in the terminal.
+        "eDP-1,1920x1080@60,auto,1.0"
+        # Add more monitor lines if you have multiple displays.
+        # "HDMI-A-1,1920x1080@60,auto,1.0"
+      ];
+
+      animations = {
+        enabled = true;
+      bezier = [
+        "wind, 0, 0.33, 0.14, 0.53 "
+        "winIn, 0, 0.33, 0.14, 0.53 "
+        "winOut, 0, 0.33, 0.14, 0.53 "
+        "liner, 0, 1, 1, 1"
+        ];
+      };
+      animation = [
+        "windows, 1, 1, wind, gnomed"
+        "windowsIn, 1, 1, winIn, gnomed"
+        "windowsOut, 1, 1, winOut, slide"
+        "windowsMove, 1, 1, wind, slide"
+        "border, 1, 1, liner"
+        "fade, 1, 1, default"
+        "workspaces, 1, 1, wind"
+      ];
+      
+      exec-once = [
+        "lxqt-policykit-agent"
+      ];
+    };
+  };
+}

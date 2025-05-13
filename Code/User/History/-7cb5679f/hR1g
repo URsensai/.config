@@ -1,0 +1,389 @@
+su
+mkdir .config
+ls
+cd .config
+ls
+mkdir nix
+ls
+cd nix 
+clear
+sudo mv /etc/nixos/* .
+LS
+ls
+pwd
+sudo ln /home/umakanth/.config/nix /etc/nixos/
+code
+su 
+sudo ln /home/umakanth/.config/nix/configuration.nix /etc/nixos/configuration.nix
+sudo ln /home/umakanth/.config/nix/hardware-configuration.nix /etc/nixos/hardware-configuration.nix
+nano configuration.nix 
+sudo nano configuration.nix 
+sudo nixos-rebuild switch
+code
+ls
+touch flake.nix
+ls
+sudo ln /home/umakanth/.config/nix/flake.nix /etc/nixos/flake.nix
+sudo nixos-rebuild switch --flake /etc/nixos#reddy
+sudo nixos-rebuild switch --flake /etc/nixos#reddy
+sudo nixos-rebuild switch --flake /etc/nixos#reddy
+sudo nixos-rebuild switch --flake /etc/nixos#reddy
+sudo nixos-rebuild switch --flake
+sudo nixos-rebuild switch --flake 
+sudo nixos-rebuild switch --flake /home/umakanth#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nix-channel --add https://github.com/nix-community/home-manager/archive/release-24.11.tar.gz home-manager
+sudo nix-channel --update~
+sudo nix-channel --update
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /etc/nixos
+sudo nixos-rebuild switch --flake /etc/nixos
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+fastfetch
+sudo nix-collect-garbage
+sudo nix-store --optimise
+home-manager --gc
+nvidia-smi
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nix-collect-garbage -d
+sudo rm -rf /nix/var/nixdb/db.sqlite 
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nix-collect-garbage
+sudo nix-store --optimise
+fastfetch
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nix-collect-garbage
+fastfetch
+clear
+tmux
+nvim
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+git
+wget
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+wget
+sudo nix-collect-garbage
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+nvidia-smi
+reboot
+nvidia-smi
+fastfetch
+sudo nix-collect-garbage
+fastfetch
+sudo nix-store --optimise
+code
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+nvidia-smi
+reboot
+nvidia-smi
+fastfetch
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nix-collect-garbage
+fastfetch
+sudo nix-store --optimise
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nix-collect-garbage
+fastfetch
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nix-collect-garbage
+nvidia-smi
+reboot
+nvidia-smi
+clear
+nvidia
+clear
+lshw
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+lshw
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+clear
+fastfetch
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+google
+chrome
+reboot
+fastfetch
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+htop
+sudo nix-collect-garbage 
+sudo nix-store --optimise 
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nix-collect-garbage 
+reboot
+hyprland
+ls
+cd .config
+ls
+cd nix
+ls
+cd modules
+nano hyprland.nix 
+hyprland
+google
+chrome
+google-chrome
+clear
+code
+dolphin
+,/google
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+reboot
+wlr-rand
+wlr-randr
+wlr-randr --output "eDP-1" --scale 1
+code
+wlr-randr --output "eDP-1" --scale 1
+wlr-randr
+wlr-randr --output "eDP-1" --scale 1
+firefox
+firefox
+firefox
+code
+firefox
+cd .config
+ls
+cd nix
+ls 
+cd modules
+ls
+nano hyprland.nix 
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+hyprland
+firefox
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+reboot
+hyprland
+code --ozone-platform=wayland --enable-features=UseOzonePlatform,WaylandWindowDecorations
+echo $XDG_SESSION_TYPE
+code
+code --ozone-platform=wayland --enable-features=UseOzonePlatform
+nix-shell -p vscode --run "code --ozone-platform=wayland --enable-features=UseOzonePlatform,WaylandWindowDecorations"
+code --ozone-platform=wayland --enable-features=UseOzonePlatform
+nvim
+git
+firefox
+code
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+reboot
+code
+firefox
+wlr-randr
+code
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+code --ozone-platform=wayland --enable-features=UseOzonePlatform
+firefox
+firefox
+hyprland
+code
+code --ozone-platform=wayland --enable-features=UseOzonePlatform
+
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+reboot
+code
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+firefox
+firefox
+firefox
+firefox
+firefox
+hyprland
+git clone https://github.com/elkowar/eww
+cd eww
+cargo build --release --no-default-features --features=wayland
+nix-shell -p cargo
+firefox
+which eww
+eww daemon
+cd .config
+mkdir eww
+eww.yuck
+cd eww
+touch eww.yuck
+touch eww.scss
+gnome
+ls
+cd ..
+eww daemon
+eww open
+clear
+cd eww
+code
+hyprland
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nix-channel --update nixos
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+reboot
+polkit
+fastfetch
+sudo nix-collect-garbage 
+fastfetch
+ls -ls
+ls -la
+nano .bash_history 
+sudo nix-store --optimise
+ls
+hyprland
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+reboot
+hyprland
+source .bashrc 
+reboot
+hyprland
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nix-collect-garbage --delete-old
+nix-env --list-generations 
+sudo nix-collect-garbage -d
+sudo nix-collect-garbage --delete-generations 1 2 3 4 
+ls
+ls -la
+clear
+reboot
+nix-env -qa --installed "*"
+nix-store -q --requisites /run/current-system
+nis search
+nix search
+cd .config
+ls
+nautilus
+which xdg-desktop-portal-gnome
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nix-collect-garbage 
+time firefox
+time code
+time firefox
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+reboot
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+rofi
+wpctl
+sudo nix-collect-garbage 
+rust
+rustc
+cargo
+clear
+nix-env -iA nixpkgs.rustup
+rofi
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+rofi
+rofi-launch
+rofi-launcher
+rofi window
+rofi -show drun
+rofi -show drun
+rofi -show window
+rofi
+rofi
+rofi -show drun
+rofi -show dmenu
+sudo nixos-rebuild switch --flake /home/umakanth/.config/nix#reddy
+rustup init
+clear
+shutdown now
+workspace
+exec workspace
+exec workspaces

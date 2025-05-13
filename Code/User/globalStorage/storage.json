@@ -1,0 +1,66 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "b9115ad97b18424039e62d23f63ffa54ca4de7a669609ed3904010da849387cb",
+    "telemetry.devDeviceId": "7087a801-798b-46d3-9ad4-f3f11a1f7fc2",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/umakanth"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 42,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/umakanth": "__default__profile__",
+            "file:///home/umakanth/.config/nix/modules": "__default__profile__",
+            "file:///home/umakanth/.config/nix": "__default__profile__",
+            "file:///home/umakanth/.config/kitty": "__default__profile__",
+            "file:///home/umakanth/.config": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#282a36",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#f6f6f4",
+            "background": "#282a36",
+            "editorBackground": "#282a36",
+            "titleBarBackground": "#262626",
+            "activityBarBackground": "#343746",
+            "sideBarBackground": "#262626",
+            "statusBarBackground": "#191a21",
+            "statusBarNoFolderBackground": "#191a21"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/umakanth",
+            "backupPath": "/home/umakanth/.config/Code/Backups/940251c0c71ee3f80ddbf86e7c0a202c",
+            "uiState": {
+                "mode": 1,
+                "x": 10,
+                "y": 10,
+                "width": 1900,
+                "height": 1060,
+                "zoomLevel": 1
+            }
+        },
+        "openedWindows": []
+    }
+}

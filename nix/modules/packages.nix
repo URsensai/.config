@@ -1,0 +1,50 @@
+{ pkgs }:
+
+[
+  pkgs.google-chrome
+  pkgs.fastfetch
+  pkgs.git
+  pkgs.wget
+  pkgs.vscode
+  pkgs.lshw
+  pkgs.htop
+  pkgs.kitty
+  pkgs.libva-utils
+  pkgs.nvidia-vaapi-driver
+  pkgs.swaynotificationcenter
+  pkgs.wlr-randr
+  pkgs.ydotool
+  pkgs.wl-clipboard
+  pkgs.hyprland-protocols
+  pkgs.hyprpicker
+  pkgs.swayidle
+  pkgs.swaylock
+  pkgs.xdg-desktop-portal-hyprland
+  pkgs.hyprpaper
+  pkgs.wofi
+  pkgs.firefox-wayland
+  pkgs.swww
+  pkgs.grim
+  pkgs.xdg-utils
+  pkgs.xdg-desktop-portal
+  pkgs.qt5.qtwayland
+  pkgs.qt6.qmake
+  pkgs.qt6.qtwayland
+  pkgs.adwaita-qt
+  pkgs.adwaita-qt6
+  pkgs.hyprland
+  pkgs.firefox
+  pkgs.glib
+  pkgs.eww
+  pkgs.lxqt.lxqt-policykit
+  pkgs.rofi-wayland
+  pkgs.rustup
+  pkgs.brightnessctl
+  pkgs.playerctl
+  pkgs.mpv
+  pkgs.slurp
+  pkgs.xfce.thunar
+  pkgs.xfce.thunar-volman
+  pkgs.openvpn
+  pkgs.scribus
+]

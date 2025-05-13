@@ -1,0 +1,394 @@
+{
+   "checksum": "686901b5a07ef29dff29c9816b7c8b0f",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13339261482963634",
+            "date_last_used": "13347285855233882",
+            "guid": "8efb0447-2908-4759-b638-67f0b927ad74",
+            "id": "18",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13312963262607945",
+            "date_last_used": "13344434679323919",
+            "guid": "4d180357-2b7d-45bf-a8ad-0747661eaf6d",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13315913451421580",
+            "date_last_used": "13367924703063208",
+            "guid": "625ce1dc-db82-485f-89eb-44b8e09b1783",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "16-311 Spring 2022: Course Overview",
+            "type": "url",
+            "url": "https://www.cs.cmu.edu/~16311/current/schedule/scheduleindex.html"
+         }, {
+            "date_added": "13316000971649301",
+            "date_last_used": "0",
+            "guid": "825d9bb6-fcec-46ca-b530-539a8fe73a75",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Modular dry-tech® delta robot system by igus® India",
+            "type": "url",
+            "url": "https://www.igus.in/info/robotics-delta-robot"
+         }, {
+            "date_added": "13318082065250932",
+            "date_last_used": "0",
+            "guid": "725e4667-39bf-4ba3-ab3d-3df2e029f3ee",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Underactuated Robotics",
+            "type": "url",
+            "url": "http://underactuated.mit.edu/index.html"
+         }, {
+            "date_added": "13318082597403420",
+            "date_last_used": "0",
+            "guid": "c9e06a0d-c204-4f96-9d4e-a387891b2e89",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Robotic Manipulation",
+            "type": "url",
+            "url": "https://manipulation.csail.mit.edu/"
+         }, {
+            "date_added": "13318582782740503",
+            "date_last_used": "0",
+            "guid": "2b8ce19d-e515-4043-8424-09502d5fefca",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "12V 15A SMPS - 180W - Metal Power Supply buy online at Low Price in India - ElectronicsComp.com",
+            "type": "url",
+            "url": "https://www.electronicscomp.com/12v-15amp-smps-dc-metal-power-supply-nwp-india"
+         }, {
+            "date_added": "13321695637191645",
+            "date_last_used": "0",
+            "guid": "9a5bea59-b4c7-407e-868c-f7a1624acc24",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "C++ Programming",
+            "type": "url",
+            "url": "https://thenumb.at/cpp-course/index.html"
+         }, {
+            "date_added": "13324364479602282",
+            "date_last_used": "0",
+            "guid": "ef4607cd-2655-40f6-bc4c-16e8772c104f",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NPTEL : Computational Geometry (Computer Science and Engineering)",
+            "type": "url",
+            "url": "http://acl.digimat.in/nptel/courses/video/106102011/106102011.html"
+         }, {
+            "date_added": "13343829929891974",
+            "date_last_used": "13372675200068695",
+            "guid": "a7d2efb9-2360-41ff-ab28-8daf6f2086d5",
+            "id": "27",
+            "name": "",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13325409389834943",
+            "date_last_used": "0",
+            "guid": "02f558bb-8eda-474e-ac38-d3e44bab6204",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Mapping, Trajectory Planning, and Navigation for Hexapod Robots Using ROS | SpringerLink",
+            "type": "url",
+            "url": "https://link.springer.com/chapter/10.1007/978-981-16-2794-1_76"
+         }, {
+            "date_added": "13325409394106762",
+            "date_last_used": "0",
+            "guid": "1fbfe2bb-c3a9-4df2-a6fd-3999efd5a457",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "1-s2.0-S2214785320380494-gr2_lrg.jpg (2677×882)",
+            "type": "url",
+            "url": "https://ars.els-cdn.com/content/image/1-s2.0-S2214785320380494-gr2_lrg.jpg"
+         }, {
+            "date_added": "13325409398338777",
+            "date_last_used": "0",
+            "guid": "b231ae60-d98d-4bf2-9bef-8b3e1c3a86cc",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ORB-SLAM: A Versatile and Accurate Monocular SLAM System | IEEE Journals & Magazine | IEEE Xplore",
+            "type": "url",
+            "url": "https://ieeexplore.ieee.org/document/7219438"
+         }, {
+            "date_added": "13325583273244609",
+            "date_last_used": "0",
+            "guid": "c6975280-f858-4714-b16f-fc0a13e2085d",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "free_gait/Footstep.cpp at master · leggedrobotics/free_gait",
+            "type": "url",
+            "url": "https://github.com/leggedrobotics/free_gait/blob/master/free_gait_core/src/leg_motion/Footstep.cpp"
+         }, {
+            "date_added": "13326180488500186",
+            "date_last_used": "0",
+            "guid": "58841f81-eb60-4d94-817c-449f1221bc46",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Google Meet",
+            "type": "url",
+            "url": "https://meet.google.com/"
+         }, {
+            "date_added": "13327992940748842",
+            "date_last_used": "0",
+            "guid": "55940ac3-5df1-4c5b-851b-38e83ba86d1f",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NPTEL :: Biotechnology - NOC:Computational Systems Biology",
+            "type": "url",
+            "url": "https://archive.nptel.ac.in/courses/102/106/102106068/"
+         }, {
+            "date_added": "13327999776620067",
+            "date_last_used": "0",
+            "guid": "dbf82095-f18a-40f7-8ea1-3769f419e7d7",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NPTEL : NOC:Biomedical Nanotechnology (Biotechnology)",
+            "type": "url",
+            "url": "http://acl.digimat.in/nptel/courses/video/102107058/102107058.html"
+         }, {
+            "date_added": "13331709263421060",
+            "date_last_used": "0",
+            "guid": "5e8d5b31-a245-414a-81e3-51ce53b75c81",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to use Arducam stereo camera to perform location with Visual SLAM - Arducam",
+            "type": "url",
+            "url": "https://www.arducam.com/doc-old/camera-for-jetson-nano/multiple-cameras-on-the-jetson/how-to-use-stereo-camera-to-perform-location-with-visual-slam/"
+         }, {
+            "date_added": "13331709983315511",
+            "date_last_used": "0",
+            "guid": "384b338e-4f21-4466-bd02-93a7bfdfceba",
+            "id": "36",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NPTEL :: Ocean Engineering - NOC:Advanced design of steel structures",
+            "type": "url",
+            "url": "https://archive.nptel.ac.in/courses/114/106/114106047/"
+         }, {
+            "date_added": "13332829516636340",
+            "date_last_used": "0",
+            "guid": "75a99b70-164e-468c-a1c0-d8fe7712d577",
+            "id": "37",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Arch Linux - Downloads",
+            "type": "url",
+            "url": "https://archlinux.org/download/"
+         } ],
+         "date_added": "13391437041496254",
+         "date_last_used": "0",
+         "date_modified": "13343829929891974",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13345898567953401",
+            "date_last_used": "0",
+            "guid": "6d356792-e3f8-42dc-b1be-c2fe9d419e34",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "3S Battery Charger - Hackster.io",
+            "type": "url",
+            "url": "https://www.hackster.io/john-bradnam/3s-battery-charger-edee84"
+         }, {
+            "date_added": "13350113394303210",
+            "date_last_used": "0",
+            "guid": "d97cb859-73e2-471b-84cc-e09a7e732b19",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Robotics Intern",
+            "type": "url",
+            "url": "https://www.blackcoffeerobotics.com/job-opening/robotics-intern"
+         }, {
+            "date_added": "13357042460445810",
+            "date_last_used": "0",
+            "guid": "00cfea72-2c5a-4587-8a74-d67ff2dd6187",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "BioMechatronics Laboratory - Teaching",
+            "type": "url",
+            "url": "https://www.biomechatronics.ca/teaching/#three"
+         }, {
+            "date_added": "13364586873574188",
+            "date_last_used": "0",
+            "guid": "b5ba1c17-0b5f-497b-9ebd-0adc3eb805e4",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Voltaic x Aimlabs - Game specific aim training routines - Google Docs",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1G57JXXqyrF8Tz_keWhgPDeCwSp-dcjHmlVBUFWgskHs/edit#heading=h.xpkvnntg6866"
+         }, {
+            "date_added": "13368115012805824",
+            "date_last_used": "0",
+            "guid": "f09dd149-7b9a-484b-9afc-9ef81789a14a",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Problemset - Codeforces",
+            "type": "url",
+            "url": "https://codeforces.com/problemset/page/9?order=BY_RATING_ASC"
+         }, {
+            "date_added": "13368602091111365",
+            "date_last_used": "0",
+            "guid": "a80e3f36-010a-420c-a9cc-3a3b9a322377",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Order History",
+            "type": "url",
+            "url": "https://www.electronicscomp.com/order-history"
+         }, {
+            "date_added": "13369382591612989",
+            "date_last_used": "0",
+            "guid": "cf02d375-af23-475c-bbfa-8b96e29108ce",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Content store",
+            "type": "url",
+            "url": "https://web.classplusapp.com/store/course/274862/18057470?section=content"
+         }, {
+            "date_added": "13376140966478995",
+            "date_last_used": "0",
+            "guid": "c34ad808-65e0-4906-a7e3-834df1a4200a",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GATE CSE Resource Library",
+            "type": "url",
+            "url": "https://aryanshivhare.notion.site/GATE-CSE-Resource-Library-2f4ab62061bd456e9ccaccfc249f6d14"
+         } ],
+         "date_added": "13391437041496256",
+         "date_last_used": "0",
+         "date_modified": "13376140966478995",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13333747221402023",
+            "date_last_used": "0",
+            "guid": "7336a7ae-ea7e-4a0c-96cf-60d948d512ba",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GATE Portal | NPTEL",
+            "type": "url",
+            "url": "https://gate.nptel.ac.in/video.php?branchID=4&cid=1"
+         }, {
+            "date_added": "13338022071620905",
+            "date_last_used": "0",
+            "guid": "078eb8f6-1b81-4db1-b08d-8a9a6f10802c",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Digital Logic Design – Chipmunk Logic",
+            "type": "url",
+            "url": "https://chipmunklogic.com/category/digital-logic-design/"
+         }, {
+            "date_added": "13338022074332849",
+            "date_last_used": "0",
+            "guid": "168bf09f-db2d-4667-8532-1e8a13d67d3b",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to Design your own RISC-V CPU Core | by Shirish Bahirat Ph.D. | Programmatic | Medium",
+            "type": "url",
+            "url": "https://medium.com/programmatic/how-to-design-a-risc-v-processor-12388e1163c"
+         }, {
+            "date_added": "13338456856407335",
+            "date_last_used": "0",
+            "guid": "37acf023-b181-460a-b166-c2f93ef264f3",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NPTEL :: Mechanical Engineering - NOC:Introduction to Robotics",
+            "type": "url",
+            "url": "https://archive.nptel.ac.in/courses/112/104/112104298/"
+         }, {
+            "date_added": "13338966969475183",
+            "date_last_used": "0",
+            "guid": "5036d3fc-dc16-456e-9fb1-be287492011d",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "NPTEL : NOC:Hardware Modeling using Verilog (Computer Science and Engineering)",
+            "type": "url",
+            "url": "http://acl.digimat.in/nptel/courses/video/106105165/106105165.html"
+         } ],
+         "date_added": "13391437041496258",
+         "date_last_used": "0",
+         "date_modified": "13338966969475183",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CvMCCtICCIiBAhLLAiAAkgHFAgrCAgoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJ96cCodo0BgAR96cCodo0BgAiNAkzktqg2jQGABADGQelltkMDv9WIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkzktqg2jQGABADGQelltkMDv9WIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkzktqg2jQGABADGQelltkMDv9WIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkzktqg2jQGABADGQelltkMDv9WIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEiNAkzktqg2jQGABADGQelltkMDv9WIAEqHDUxIWJtL2ZkOjkxNjM3MjM1NTk0Njg4OTMxNjEpNGUDodo0BgASACoYbTkyRyt2empIeGNiM0ZsUTY3OWNyQT09SAMS7QEIIxLoAQocYkRuNTI5bEZnazJrMEo3blNlVURtOUlCR3FvPRJmWjpBRHF0QVp4c2VPL0xDTjZlVitzalBCTW9rMnpYd2t0WUVJVXBRbitBUHZvNjV6K0xhb2NDL3hqcjF0VWpOYklPYlB6M1ZvNE1VU2l0cDlsd1QwZ3QvaHdvajlSSXA5bkFTZz09GAAgACgAML6og9SC0f8COL2s1LiNMUC9rNS4jTFKHDhaVnlkbnYvZFRZRjdMVi85K0RRUG5wc1lsTT1aICIe//9pcy9WVVR6aHF5Q3ppdmI5cjJ3QjZGSTZoRlE9ZSBDCcES7QEIIRLoAQocaTBCR1RyNytaSVI2WHlCLzE1MmNSU0NFbzVRPRJmWjpBRHF0QVp4c2VPL0xDTjZlVitzalBCTW9rMnpYWUxGWVE0Y2d0emRLWGkyalAvaFhIdVRXWWlLUWxxWEl1OGltd1F3N3A0QjloeGtZYnAvWWp1QUFQQUlwRGo2d0lvM1V0UT09GAAgACgAMN7x0qDu5P4COMyBysz/MEDMgcrM/zBKHGsyeTc2ajdYWm0wUnJIVGVsOWxmTi84U2o3Zz1aICIe//5XNFBQNHdURWkwZEVHYy92TitWcU1wOGo0akU9ZX9ClyES7QEIHhLoAQocNkhOZ0UyWTlOeUJaN2RjcVBPKzgrZjZhaDU0PRJmWjpBRHF0QVp4c2VPL0xDTjZlVitzalBCTW9rMnpYc1poWGxaVGRYWWd0bDlrUCtLQ3FPMTJkeUdoellnYzcvRUo2VlVmc0wwQkFNdGdvM3JoUFdhNFNrTFRsZGh6dE03NDdFQT09GAAgACgAMJvtt8y44IADOMOM0/z1MEDDjNP89TBKHGJ4ZTJIYXFLci9NSk9Tdzl2UFJzZHB1R01mcz1aICIe//ROcHVvNzR4c3JyeWV1T3RjQ1k3STNMVTlqL2M9ZUn2JwsS7QEIHRLoAQocTTd0bm9hOGRNclJrQzRiaFhZTDZmUGpZY0NNPRJmWjpBRHF0QVp4c2VPL0xDTjZlVitzalBCTW9rMnpYT2gzaExabVZpYVBrRVZxZFFDWDdCQkEzc3JqNjlRV2RrM1FVaCtSRnJvZkZ2dDZlSkRhODVicjBvWjZrbEZUTmhUSkpjQT09GAAgACgAMNeLlOfVmf4COLvr0vz1MEC769L89TBKHDNEYXhha3FpVjdBVUJ5ZDZmRnFYeUZvUmk4ST1aICIe/+lLSkFiaW85U1FKTmZMbFVlYlJBZVFIUUlzM0k9ZQAAAAAS7QEIHBLoAQocR0xwSHFKZmk2SVlEQTlWaXFpRGZqaFFoNm5BPRJmWjpBRHF0QVp4c2VPL0xDTjZlVitzalBCTW9rMnpYUGtSUTVoTjZsNVdmckpxSG16MkliNjIrTzd2eTErRDhtWXlDak5wc2lxbkpzRVlqaHZRWk1ORnhLOGx6aXk4cy9KTEI0UT09GAAgACgAMKyOg6rXpYUDOIvK0vz1MECLytL89TBKHGdYZEtLTERCZnd6bzdwaWl2cEczTlc1V3lhbz1aICIe/9JjR1hxRGROR1NiL2R0YzUvZnJOVEdaSHJLaGM9ZagxNvsS7QEIGxLoAQocOHMyb2pFQVJSZ1k0cWJkSnJYMHV0bXYxdlBRPRJmWjpBRHF0QVp4c2VPL0xDTjZlVitzalBCTW9rMnpYZDF3dnJGMUVZOHA3SEl0MStoZS9UcVpRZ0tVeHFmU2RNNSt3aEZqbG5VS005bHUwVzZmU3loK1pXS00xRC8vRG13YndWZz09GAAgACgAMImx3NHUm4sDOKSPn8y6MUCkj5/MujFKHGNlSjVxRHFoU3VVb0RRUklUYTlmYTF4YzNadz1aICIe/7tjR29pRUZIaTdnaVRHWmxNaEQ1SUdYSGlMMU09Zf2cjEoS7AEIFxLnAQocaytuNkhySG9OQ2Vsd0lqc0IwRUpobHJzdytzPRJmWjpBRHF0QVp4c2VPL0xDTjZlVitzalBCTW9rMnpYaEN6bHhySURuU2Q1ODZNYmg5Vm5KRXdVOXhvNVZMWFc1a2VNZGZaRzMxeGszTnN1b05Mc241S0lLZVNnQ1R4Nnd5T3l6Zz09GAAgACgAMOLz1q+3xPwCOJvU+tbaMECb1PrW2jBKHDZkRDNteVBnem1uSlRPRE5nUkM1Tk5EZ0xXTT1aHyId/UlYck9KRzdlYm9COXhBZFNSc1FTQm9kRWlZND1lAAAAABLsAQgWEucBChwwRkU0NVcxOFRDT2dnR2pIbnFCK0NyMTZEWVU9EmZaOkFEcXRBWnhzZU8vTENONmVWK3NqUEJNb2syelhROG8xbk5aaEY4d2pvN01nVTRLRnN0QmJ0ZERIbkMrR2tJOUlHUERNbU91RTRsY2RZeVVIRldNSzlBYVZuK3I1WnJtWmR3PT0YACAAKAAw+6L8sbXE/AI445ba1towQOOW2tbaMEocTi9ldDdxbTRNWmJVS3dZRlFFclB1VkVkeEJVPVofIh37MmQ4b3lWVjhoRGhUeTVVSUpMaGI5Z1pZSGNZPWUAAAAAEuwBCBQS5wEKHGlFRGJteExLclpob1pSR3hyaDNpRnllN0hwTT0SZlo6QURxdEFaeHNlTy9MQ042ZVYrc2pQQk1vazJ6WHpaSSsyZS94YU9BV2o1OXQ0S0piWU5UdkwwVkF4N0hWQXA5cExCWHoyczE5cXo3ZHJyMGgyUEd6dG5kSzF0YmtwWkhaU1E9PRgAIAAoADCB8rjQg++HAziev9DM0jBAnr/QzNIwShwybytjVUoySlc5QlM0RnNBOS9UUFQ0Mk5vaHM9Wh8iHe51cHRjSUxxMFdEL0hvY2VTNk9NSzVNQm9KVTg9Zb1GLawS7QEIIhLoAQocQ0dCckVKejhQbSt0U25BajQ2NkZXTDV3TzM4PRJmWjpBRHF0QVp4c2VPL0xDTjZlVitzalBCTW9rMnpYd3Y4NldmbUdRenVMU0hUZUVOdmpLUmkwYjVSN3h2c2MvaFZxVVNQVnNReStsUUQ0ZEZhM3ZUUEh1N0NoZitqcHlrSXI1QT09GAAgACgAMIzhodyH5f4COOye68//MEDsnuvP/zBKHDhkelhZMTBEL0RHTDJnRDdNR3NNUVJuaEpvZz1aICIe//9CZXJZNHFGTFRMaHlzdFQ5bG05b1AwTjlvb0k9ZRBXU/MS7AEIGRLnAQocaDlCYkNSdXJoSWgvbDJHVVc1TWcyNTNlWlJnPRJmWjpBRHF0QVp4c2VPL0xDTjZlVitzalBCTW9rMnpYZWkzanpHY1Fnc3ZRMUcyN2hPUkNUTmJDQVNOTmtVTlM3ZjZETkg0SXVXRWJ4SkUxbzJVeTdzZVFmcG9WOHJUTmo0L3V4dz09GAAgACgAMP7h+v7Krf0COMiN5ZHoMEDIjeWR6DBKHExTZHlsZFZHUERKMnh2and6UHVVNWUxYWpxWT1aHyId/0swRW8zMVJhVUt5WDYvcUQ5aXorRWZNdkxNaz1lAAAAABKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnlKcDNvb1k3SUM4MS9kNllSQ25kdG1uRi9ySDZXeVhmMW5WWm5JbFdXdzIzcVpKaWNPMnBhR25Cb1NZYk85aFpFcFdkOXYYACAAKAAws6TqhqqbjQM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLuAQgkEukBChxNVGZUN296WXFFak5uS1JldmpxVkhTa0p3eVU9EmZaOkFEcXRBWnhzZU8vTENONmVWK3NqUEJNb2syelgrK3BsdWdqUFE2UGd3QzUzUDBnNzRrZi9nMG5mbjNzRUFBR2pWSG1UZWh2RFVUK2YvVkdBeFlrVWQ2TnpCdHlMNWVXbHB3PT0YACAAKAAw4fufq4XR/wI406SAuY0xQNOkgLmNMUocb1Fyc1FldHdLbjJsb1JJSFF4c0EwYi9WS3BJPVohIh///7RHRTcvalk5VE15SEJiN2NnUkF3N0lTam9naTA9ZX9ClyES7AEIERLnAQocZ1VwMm04S0JNalB2RVA3MTNFQUttZVEzVXRVPRJmWjpBRHF0QVp4c2VPL0xDTjZlVitzalBCTW9rMnpYa3FYazE2NDJ6RVR4U01tRFcra2w5dC9haEwzN1lhZlQrSGt2K0w0WEUreGRSbm1nTkx0VER6UnFyUC9vNlpYZ0VwRnMxZz09GAAgACgAMJm1iMyT3okDOM+krPuyMkDPpKz7sjJKHEhid0J6UXlLWlN4cEpDS2hwVDFHbHN4MlM4QT1aHyId/lQ5Q0ZvZTBWbWVnaGpWVmtXRGVoTVBQT05VWT1l90rIPxLsAQgQEucBChxNL2k4RnhnY1BxdjBFbTg0SzFudWtjTG1kaWc9EmZaOkFEcXRBWnhzZU8vTENONmVWK3NqUEJNb2syelhDUkNmTVRRUnJPVkZ4ajBLY0dEdG4zZkFFenFzWXlvRElhQmNqWk1INjJGT3d1VVd0TmdaQU9mcWU3ZTRrdHFpNG1qbW1RPT0YACAAKAAw2MCG2bqZiAM4/ejZ5JkyQP3o2eSZMkocZjBVR0FzTXF5ajVFZmpKWXdpYWY2WnlBWkJVPVofIh39K0NveFVOQ3hjVlI4SE42TFpDdHVLeE5DNUxFPWU9FMS7Eu4BCCUS6QEKHHJYNXZncFIvS1RaM1hBcWNoZ1BtMkV0bUlNaz0SZlo6QURxdEFaeHNlTy9MQ042ZVYrc2pQQk1vazJ6WDRPWS9KWnI5ZnYxWk5NeEIweVVlcXdJTys4RlBlRzlKV29KWkdIclNUbXRZUENadTBBVitubHo2V0NweWxHYmVRWGF6Ymc9PRgAIAAoADDRh5zepZyGAzjcluvOkTFA3JbrzpExShxrY1V4M2Q3Q1M3TFBTc1Z3QlJkeDVhajk5cE09WiEiH///2mVWVmtHdjdtRjJMZ1lkTDVLellva2xPeEZHOD1lwCKQ8xLsAQgYEucBChxmTENtRFFpY0hFNG1BQVB1WFVTUWljdzQyM3M9EmZaOkFEcXRBWnhzZU8vTENONmVWK3NqUEJNb2syelhFMTYzajJTNkJQUWJ5c0lvRVp3dU9QZk9zeUw5ZnNJNlJLbU0xdUFXR1hwZE1CTjU1alp3Kzh3cEN6RkpOWVErNDFSNDJ3PT0YACAAKAAw7Meak+msgQM4lca7xdwwQJXGu8XcMEocWFQxUWhraWlvcHpXbVZNeDExNXp4dmR1QTQ4PVofIh3+b0p5dVVoTlpTQXRnWjN3NTg0c2JNbmhpYVJRPWVRi1AuEuwBCA8S5wEKHFhjd0wvbWxEM2lZNjFVK2JIYnhnTGM5Vno5TT0SZlo6QURxdEFaeHNlTy9MQ042ZVYrc2pQQk1vazJ6WFQyTFYvZm5lRTJaTDQ1OXBZd2hhb2J1bnhPbkJwcjh4NzZ3eUxFVndrRlNGQkRHY1luYzU2RktJMTQySzBCTkY1aTNjRFE9PRgAIAAoADCc95PA5oeIAzjn7MPwljJA5+zD8JYyShx5UEFWL1V2VGVwd3B6clFOdWdBcWR1SHljc2M9Wh8iHftzajVjaUU5ZzJPeEFTOW82dUxjRElIVVZEVE09ZVGLUC4S7QEIHxLoAQocUFlWenA0ejlkblM5UTBZdExuaHlpS3pXYUQwPRJmWjpBRHF0QVp4c2VPL0xDTjZlVitzalBCTW9rMnpYMW95TUJEL3lXcFZHSTdwYjZaaVZ2V243bTJZdHBYaGhwOFZ3bGJqZFIxRWtxQkJmZjJvVExab08vcnkwanpTU3p5VjQrQT09GAAgACgAMJSmur68zIgDOJ3Kx8/2MECdysfP9jBKHDdHMGdjQVlkRldCdUpPallmNllTVmlXSUtKRT1aICIe//o4Vm1Tay9ZWGY0MjJ4c25ESkRyd1dabUROZHM9ZRVQ+YkS7AEIDhLnAQocaWk3Y0NSeGFpU0dqb1pIYjNxS051b0xVZmljPRJmWjpBRHF0QVp4c2VPL0xDTjZlVitzalBCTW9rMnpYRmdxSUlmNWU4MWJTeUFBbkprdmw5bXpwdkl5aFdqWlVQY1dLV1EzUHAvTTF5OU5UWTNyY0lVK1QyemhSd1JyVDB1emNmQT09GAAgACgAMOGk4YKKzIgDOMb5ooiVMkDG+aKIlTJKHHQxZDFJclg1WGtkaXA0NWVlaHl2enRxNktpTT1aHyId9jRidTd0SnJMbVZweTZacUdlckRVaXJMeVhkaz1lvHe51RLsAQgNEucBChxvV3NQL1RLZ3k1cUdqYXQ4VFp5Qkl3amE0K009EmZaOkFEcXRBWnhzZU8vTENONmVWK3NqUEJNb2syelh2dzkxTGl1UHFEejNVYVZrU0pQWHRkZGdWQlVRZTlybzVDOTZZZGRDcktHZmJRMDJhOUxXcFpSYkRndEd2MEZOS0hyVXV3PT0YACAAKAAw6L2Dp/GNhwM457X29YcyQOe19vWHMkoca3h4VFRoNGdrTXFFd1RSTUY0M0R5T3IyemtFPVofIh3tUTYvd1VoNk9Fd0hyMm1NNFNIMEIzdEZxYnNZPWU5xrawEuwBCBUS5wEKHFN5dzU2MGNkVDQvcUtMUHhaa3FrTE5xSWExZz0SZlo6QURxdEFaeHNlTy9MQ042ZVYrc2pQQk1vazJ6WFFkOTI4aEdsdDdhTjg0YkZxZDlHcmNSWVkwMjh0dlM0akJYbEVaMVFPbVJHSGxaQjFqREd5VmJ1cVdubEFBTUk1cHZPb1E9PRgAIAAoADDsx5qT6ayBAziCp6720jBAgqeu9tIwShxxUTRiVEY5SmVLWElrZXkvdTlhWEFhemFxMWM9Wh8iHfd6T3BCWHlFbWtxY0JWTXlSQ05CcXBvMTcyZzA9Zd190rwS7AEIDBLnAQocUnRVNkZQQVVkYkIyUWJJNlpFUVlOY1lGaVlvPRJmWjpBRHF0QVp4c2VPL0xDTjZlVitzalBCTW9rMnpYTjRPMG9aWDNuQiticGJHaUVuem44b3BrakprdHVqL2pUalI3aEZCdGZiR0V3Z000ejM5bnZNMzZYMjJld24yWm5MQVlKdz09GAAgACgAMOPQvJOosoUDOJ7+u+jrMUCe/rvo6zFKHFVLTnNFaW9RT05pTWVUbm1uSnYxWmJxUUFDdz1aHyId20RlWnBwYi93UnA4WldhZGZrdGdCWXpxQVFoMD1ltM4rORLrAQgKEuYBChxzaG1ob21kZkV5L1RCZEExbEYxTFBhTGhGQnM9EmZaOkFEcXRBWnhzZU8vTENONmVWK3NqUEJNb2syelhYL0V5VHJjaVN6R2ZWOEVLTXRBZjBoR1lCSG5TcU9KZVBwT0Nua1ltY0lYQ0xUWmFySTVJZXUrSzBWYUZ3MFE0YjhCZ2F3PT0YACAAKAAw7tuLnqqDiAM4keLSpsIxQJHi0qbCMUocRDBTdjUzUUZ2NXdkWXUrMG5pTSs1bm83WVYwPVoeIhxvck13cnVmR3BGZnFZWklDRkRqcHg5bXRwTEk9Zaes15gS7AEIBxLnAQocQ1d1Z240bkpBWElsWFdFMFVwWi8vbFdCR01JPRJmWjpBRHF0QVp4c2VPL0xDTjZlVitzalBCTW9rMnpYK21HWVVZYkp5N1F6cWs0bHRUYU1Qejh6NWNBbmpSUzlBNExvb0tNQnJONDAzTlVBY01Ob2lDN0JPWm1PMTRxQmx3NmNYdz09GAAgACgAMOGZz5+qg4gDON3f6/qkMUDd3+v6pDFKHFErSEdRUGZ6ZVJPWWg3Z21ETlFRcldyOVRRVT1aHyId2XY4R09rb0pCUEs2YXZDUUJVUFJZVkxZQjlCST1lgs5AUhLsAQgLEucBChwyY0N3Rlk4MHJLbnVoUXFnSVAvcTltc0tBRG89EmZaOkFEcXRBWnhzZU8vTENONmVWK3NqUEJNb2syelhaZWxLN1ptMTBDQ2RJVThNL3hkL2ppdkRkY2IreHk1M2RVVnFQekp4UGV4c2kzMG5KZ2lKQW9GeVRnbjB2RzlnRXpEOHBnPT0YACAAKAAwwf7lrtPogwM4/6y3gNIxQP+st4DSMUocZGhIaURZY1Z3a2JtYnFQOVM3ZHEzcU9tN0ZVPVofIh23VEdETkQ3bUNpblU2K3VmaStwU1k4TVdZVitNPWW4Mc8vEu0BCBoS6AEKHFIxWWMxTFQ2Nm5wQS9seUJhZmdBRTc4ZHhJZz0SZlo6QURxdEFaeHNlTy9MQ042ZVYrc2pQQk1vazJ6WDBDdUxETkVWUzZPS3ZUQUliU0tGc3lGVndlRUc0THpWM25LTHFSYXJlUjhwcVRseVA3bmdZUzVBT1RNeTNZNW1VekkzVmc9PRgAIAAoADD7+bDHj/yAAzjyqLKK8jBA8qiyivIwShw1UGlRcmE3TVgyMFJyY0o1OEpRbXk3TzVrMms9WiAiHv+lRmtpMG11c3J4Zk9qQmNnNE0rUEZLMUhTQjNnPWUQV1PzEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaems5QmIvRy8rVEtzajB3OWIwRjBack5oM0dURUNJL0hnQTQySCtHWXlremswNXBQKytzSGJ6aExGbU9UeStWRUdmamdYSGlMREJCRzR3Tno5S3NuNm5qTTBXdXc9PRgAIAAoADCzpOqGqpuNAzgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEqwCCBISpwIKHGFNN3Z1OUNtT1RScURjRzAweS9SVGxNQnVyVT0SpgFaOkFEcXRBWnlpQVltMU9iMGRhOVR4cFRVc0pxU1NTelpIMzFuaXFoNmdYOW42QUpsZEtObU1VRHJxMlBjdTYxMzBEc1VPZ0YxTGcwbXBLNENJajNVbDhjVkRGYUJQNiswOVZUY3FxcGFHUFBTRWZ1WExmZHdkbHUyaXpKYzNGRUNNYzkza1FWZDY5MitScS9tNVRyN2dCN0Y0S2MwV3NuR3U3QT09GAAgACgAMNXA0YOuloMDOI7JpoXjLkCOyaaF4y5KHGhzTDFjN091Q2p1SHlJTEg4UXhhSzhkSmxWND1aHiIcc0NjQXMxSUJhMmpyQllhaTZ0cnJsb3ZvaFJFPWWbPYW2EuwBCAgS5wEKHHloS3hPOHFIeTdLeGV1bWFRb05MMGw2RDZzWT0SZlo6QURxdEFaeHNlTy9MQ042ZVYrc2pQQk1vazJ6WHZoelRTV0FJeEI5ZldzTkhMTnAwdmU3OWhONkVBRnV4T0VnOHlnV1RNeFhsWENKNS9CZXlyRVk4NHpESklkY0drWHU0aXc9PRgAIAAoADDRg/Crs5WBAzjX3pTKpjFA196UyqYxShx5dS9EaU03UkZOZWIzTytqVDdvOEV2Y0hQTk09Wh8iHexqWnZLeG5oeFQ1TEtZMFh6TjVocU9zcWhkWW89ZX9ClyES7AEIExLnAQocaHRiakhZcDJPV0Q3RTFJVWRYcUE1KzZ1RjNRPRJmWjpBRHF0QVp4c2VPL0xDTjZlVitzalBCTW9rMnpYMkE5YXFKYUttNjQxMjVuRitKQ2FVRnpTNGVkSWJ1ZUQvdDhaNkVtdkw3MFoyaHd2dzUzVTZVNWlDc1gzdTBCdTNXNXlyQT09GAAgACgAMMa6+r2ww4IDOPnG9M3HMED5xvTNxzBKHDdid01BNW1vbmZja2MvR2ZacE5wRHVPVjVrQT1aHyId3E4vZHJJdVhHaENUdW04VFFWL0ZMSUVveXZXUT1lPWyFERLrAQgFEuYBChwvZ0pGekpOaFczVVhhNXJLSllEWXFFWVRKVlE9EmZaOkFEcXRBWnhzZU8vTENONmVWK3NqUEJNb2syelg4NnlxbjhLQzZjVDl2YkEvY3IzNDhuaDIwSEZJL2o3YnVydlI1aDZORWxaK1BHdWI4aUFvVi9mUlZzT3RUUTZZdyszMlB3PT0YACAAKAAw4ZnPn6qDiAM4m7e3hJUxQJu3t4SVMUocQlREY0pMUTQzZk1wazdiOE5ZR1BIWG1XS0prPVoeIhxleG9iYkswOXJpWWVKcnBWUmhsdC9HdGZZeE09ZR9nnUUS7AEICRLnAQocQ21vQXM3dk16ZnZTRlllYm9xWExZUkkzRUVvPRJmWjpBRHF0QVp4c2VPL0xDTjZlVitzalBCTW9rMnpYelFXWHhPSDRWdlBxZzFuYTROVEhyZGQ1M0hDMklucmoxYnFUWnpsTE51TFI1UW93T0pHMUZ0R2o3SlJiUDZkRmc1c2lUZz09GAAgACgAMJLEjdGfpIEDOIPJs72oMUCDybO9qDFKHFhiQTh0YU9MRlAvR3N2aEFJWXdYRlpjdXJCUT1aHyId9jFFTElEM0JyL1lMOXhSUE83STRFTXA0aHlhMD1lEFdT8xLsAQgGEucBChxDQVlLR1ljWm4zV21RZDNTekdUSjR6eS8vTGc9EmZaOkFEcXRBWnhzZU8vTENONmVWK3NqUEJNb2syelg1b3NqaDBBNjRZUHNVTzk5RkJheWtsU2hTZ2RHRUozNXFLbHFaNE5lWnljeExJdU9SV3d2M2IwbFp3Rjd6TW8vRE5hNndnPT0YACAAKAAwoOis1d+IgQM4xcrr+qQxQMXK6/qkMUocajhXRnhCa1M2aEZlaDBjUEU0Rlp6L2xuK0x3PVofIh2yNnpvT1FGdUVBZitBdlhNMEI0QXlwRXZpcER3PWW4oG4PEu0BCCAS6AEKHGRaMjVoVk9wWlNNTGZuRTdPa0twY2ZtMXE2ND0SZlo6QURxdEFaeHNlTy9MQ042ZVYrc2pQQk1vazJ6WDF2bjlqSHJlcUxtYml1Sm9HZDliaUVMZU5xaXZiN0dBUFYrU0c5dGtRQlNnNFJ4L2RvYzdVdDh2Y1hyKzYwQ2FNTmdHMEE9PRgAIAAoADDcxtOVg5mEAzi02qrs+DBAtNqq7PgwShxXckNFUFRKS25vSUVSdktYUDV4d1dYV3JZM0U9WiAiHv/9cGdNdE1jbjFKMWN1cHo0VkdFWTRWaWNiUU8wPWX0IvUbEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFad09iSUlnOEphSkhxZ3hEalQ3WG05NEpKZytJQlVTaGtpVWgwcXYzOXJQQ1Nld1BVWkRhSGFiUVJkdVBlbEdLa2xiOXBUYzRLUWxiYUhjRjc5RUZZbVdLc2d6ZXc9PRgAIAAoADCzpOqGqpuNAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAE4AA==",
+   "version": 1
+}
